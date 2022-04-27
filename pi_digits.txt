@@ -1,0 +1,14 @@
+3.1415926535
+8979323846
+2643383279
+
+From: stephen.marquard@uct.ac.za
+From: louis@media.berkeley.edu
+From: zqian@umich.edu
+From: rjlowe@iupui.edu
+
+
+
+We can use the find string method to simulate a text editor search that finds lines
+where the search string is anywhere in the line. Since find looks for an occurrence
+of a string within another string and either returns the position of the string or
